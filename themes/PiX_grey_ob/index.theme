@@ -1,0 +1,6 @@
+[X-GNOME-Metatheme]
+Name=PiX_grey_ob
+Type=X-GNOME-Metatheme
+Comment=PiX Openbox WM theme with grey color title bar for Raspberry Pi, based on Adwaita 3.14
+Encoding=UTF-8
+GtkTheme=PiXflat
