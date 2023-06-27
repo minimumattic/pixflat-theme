@@ -27,3 +27,4 @@ RaspberryPiOS PiXflat GTK Theme for LXDE/Xfce/GNOME
 - gtk2-engines-pixbuf: http://archive.raspberrypi.org/debian/pool/main/g/gtk+2.0/
 - default wallpapers: https://archive.raspberrypi.org/debian/pool/main/r/rpd-wallpaper/
 - default wallpapers (4k): https://archive.raspberrypi.org/debian/pool/main/r/rpd-wallpaper-4k/
+- Mowi-24 xfwm4 theme: https://www.xfce-look.org/p/1700122/
