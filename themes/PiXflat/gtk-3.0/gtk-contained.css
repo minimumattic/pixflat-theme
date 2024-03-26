@@ -4204,7 +4204,17 @@ headerbar button:disabled {
   margin: 0px;
   -gtk-icon-source: none;
 }
-#panelpopup, #panelpopup scrolledwindow, #panelpopup label {
+#panelpopup, #panelpopup scrolledwindow {
+  color: @menu_border_color;
+  background-color: @theme_base_color;
+  border : 1px solid;
+  padding : 0px;
+  border-top-left-radius: 0;
+  border-top-right-radius: 0;
+  border-bottom-left-radius: 0;
+  border-bottom-right-radius: 0;
+}
+#panelpopup label {
   color: @theme_text_color;
   background-color: @theme_base_color;
   border : 0px;
