@@ -40,7 +40,7 @@ window.inactive.client.color: #323334
 *.button.toggled.hover.bg: parentrelative
 
 # borders
-border.width: 0
+border.width: 1
 border.radius: 1
 window.handle.width: 0
 window.client.padding.width: 0
