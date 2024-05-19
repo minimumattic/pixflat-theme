@@ -2569,7 +2569,7 @@ scrollbar {
   scrollbar.vertical button.up {
     -gtk-icon-source: -gtk-icontheme("scroll-u-symbolic"); }
   scrollbar.horizontal button.down {
-    -gtk-icon-source: -gtk-icontheme("scroll-u-symbolic"); }
+    -gtk-icon-source: -gtk-icontheme("scroll-r-symbolic"); }
   scrollbar.horizontal button.up {
     -gtk-icon-source: -gtk-icontheme("scroll-l-symbolic"); }
 
@@ -3905,10 +3905,10 @@ colorchooser .popover.osd {
 decoration {
   border-radius: 0px;
   border-width: 0px;
-  box-shadow: none;
+  box-shadow: 0px 0px 7px 5px rgba(0,0,0,0.2);
   margin: 10px; }
   decoration:backdrop {
-    box-shadow: none;
+    box-shadow: 0px 0px 7px 5px rgba(0,0,0,0.2);
     transition: 200ms ease-out; }
   .maximized decoration, .fullscreen decoration, .tiled decoration {
     border-radius: 0; }

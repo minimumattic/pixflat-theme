@@ -18,7 +18,8 @@ RaspberryPiOS PiXflat GTK Theme for LXDE/Xfce/GNOME
 - select ```Use user wallpaper if available``` in LightDM GTK Greeter Settings app
 
 #Original files:
-- Non-modified PiXflat theme can be found in: https://github.com/RPi-Distro/raspberrypi-ui-mods
+- Non-modified PiXflat theme can be found in: http://archive.raspberrypi.org/debian/pool/main/p/pixflat-theme/
+- Non-modified PiX theme can be found in: http://archive.raspberrypi.org/debian/pool/main/p/pix-theme/
 - Non-modified PiXflat icons: http://archive.raspberrypi.org/debian/pool/main/p/pixflat-icons/
 - Piboto font : https://archive.raspberrypi.org/debian/pool/main/f/fonts-piboto/
 - Gnome icon theme (3.12.0-3): https://packages.debian.org/bullseye/all/gnome-icon-theme/download
