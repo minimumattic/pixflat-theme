@@ -123,6 +123,9 @@ these are pretty self explicative */
 
 @define-color tooltip_color rgba(160, 160, 160, 0.8);
 
+@define-color labwc_csd_border #d0d0d0;
+@define-color labwc_csd_client #eeefee;
+
 /*
 these colors are exported for the window manager and shouldn't be used in applications,
 read if you used those and something break with a version upgrade you're on your own... */
